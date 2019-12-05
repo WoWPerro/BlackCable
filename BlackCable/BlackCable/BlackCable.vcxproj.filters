@@ -91,9 +91,6 @@
     <ClCompile Include="Player.cpp">
       <Filter>Game</Filter>
     </ClCompile>
-    <ClCompile Include="BCE\Graphic\Text.cpp">
-      <Filter>BCE\Graphic</Filter>
-    </ClCompile>
     <ClCompile Include="EnemyT4.cpp">
       <Filter>Game</Filter>
     </ClCompile>
@@ -162,9 +159,6 @@
     <ClInclude Include="Player.h">
       <Filter>Game</Filter>
     </ClInclude>
-    <ClInclude Include="BCE\Graphic\Text.h">
-      <Filter>BCE\Graphic</Filter>
-    </ClCompile>
     <ClInclude Include="EnemyT4.h">
       <Filter>Game</Filter>
     </ClInclude>
@@ -198,12 +192,6 @@
       <Filter>Archivos de recursos\Shaders\Default</Filter>
     </None>
     <None Include="Assets\Shaders\Default\skybox.vert">
-      <Filter>Archivos de recursos\Shaders\Default</Filter>
-    </None>
-    <None Include="Assets\Shaders\Default\Text-Shader.frag">
-      <Filter>Archivos de recursos\Shaders\Default</Filter>
-    </None>
-    <None Include="Assets\Shaders\Default\Text-Shader.vert">
       <Filter>Archivos de recursos\Shaders\Default</Filter>
     </None>
   </ItemGroup>
